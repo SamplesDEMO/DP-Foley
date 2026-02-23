@@ -1,0 +1,782 @@
+[
+  {
+    "id": "sample_000400_label1",
+    "dataset": "DCASE",
+    "category": "Label1",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_DP-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_DP-U-Net.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_DP-U-Net_Small.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_Atten-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_Mamba-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_T-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_DCASE_sample_000400_label1_DiffWave.png",
+        "audio": "audio/audio_DCASE_sample_000400_label1_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_DCASE_sample_000400_label1_ref.png",
+      "audio": "audio/audio_DCASE_sample_000400_label1_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000209_label0",
+    "dataset": "DCASE",
+    "category": "Label0",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_DP-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_DP-U-Net.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_DP-U-Net_Small.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_Atten-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_Mamba-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_T-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_DCASE_sample_000209_label0_DiffWave.png",
+        "audio": "audio/audio_DCASE_sample_000209_label0_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_DCASE_sample_000209_label0_ref.png",
+      "audio": "audio/audio_DCASE_sample_000209_label0_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000020_label2",
+    "dataset": "DCASE",
+    "category": "Label2",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_DP-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_DP-U-Net.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_DP-U-Net_Small.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_Atten-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_Mamba-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_T-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_DCASE_sample_000020_label2_DiffWave.png",
+        "audio": "audio/audio_DCASE_sample_000020_label2_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_DCASE_sample_000020_label2_ref.png",
+      "audio": "audio/audio_DCASE_sample_000020_label2_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000160_label4",
+    "dataset": "DCASE",
+    "category": "Label4",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_DP-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_DP-U-Net.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_DP-U-Net_Small.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_Atten-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_Mamba-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_T-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_DCASE_sample_000160_label4_DiffWave.png",
+        "audio": "audio/audio_DCASE_sample_000160_label4_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_DCASE_sample_000160_label4_ref.png",
+      "audio": "audio/audio_DCASE_sample_000160_label4_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000330_label3",
+    "dataset": "DCASE",
+    "category": "Label3",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_DP-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_DP-U-Net.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_DP-U-Net_Small.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_Atten-DiT.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_Mamba-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_T-Foley.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_DCASE_sample_000330_label3_DiffWave.png",
+        "audio": "audio/audio_DCASE_sample_000330_label3_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_DCASE_sample_000330_label3_ref.png",
+      "audio": "audio/audio_DCASE_sample_000330_label3_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000285_label27",
+    "dataset": "FSD",
+    "category": "Label27",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000285_label27_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000285_label27_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000285_label27_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000285_label27_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000285_label27_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000285_label27_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000285_label27_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000285_label27_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000285_label27_ref.png",
+      "audio": "audio/audio_FSD_sample_000285_label27_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000271_label20",
+    "dataset": "FSD",
+    "category": "Label20",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000271_label20_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000271_label20_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000271_label20_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000271_label20_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000271_label20_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000271_label20_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000271_label20_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000271_label20_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000271_label20_ref.png",
+      "audio": "audio/audio_FSD_sample_000271_label20_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000384_label21",
+    "dataset": "FSD",
+    "category": "Label21",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000384_label21_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000384_label21_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000384_label21_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000384_label21_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000384_label21_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000384_label21_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000384_label21_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000384_label21_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000384_label21_ref.png",
+      "audio": "audio/audio_FSD_sample_000384_label21_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000382_label26",
+    "dataset": "FSD",
+    "category": "Label26",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000382_label26_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000382_label26_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000382_label26_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000382_label26_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000382_label26_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000382_label26_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000382_label26_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000382_label26_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000382_label26_ref.png",
+      "audio": "audio/audio_FSD_sample_000382_label26_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000360_label17",
+    "dataset": "FSD",
+    "category": "Label17",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000360_label17_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000360_label17_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000360_label17_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000360_label17_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000360_label17_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000360_label17_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000360_label17_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000360_label17_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000360_label17_ref.png",
+      "audio": "audio/audio_FSD_sample_000360_label17_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000251_label6",
+    "dataset": "FSD",
+    "category": "Label6",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000251_label6_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000251_label6_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000251_label6_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000251_label6_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000251_label6_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000251_label6_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000251_label6_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000251_label6_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000251_label6_ref.png",
+      "audio": "audio/audio_FSD_sample_000251_label6_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000112_label31",
+    "dataset": "FSD",
+    "category": "Label31",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000112_label31_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000112_label31_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000112_label31_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000112_label31_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000112_label31_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000112_label31_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000112_label31_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000112_label31_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000112_label31_ref.png",
+      "audio": "audio/audio_FSD_sample_000112_label31_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000010_label39",
+    "dataset": "FSD",
+    "category": "Label39",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000010_label39_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000010_label39_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000010_label39_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000010_label39_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000010_label39_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000010_label39_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000010_label39_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000010_label39_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000010_label39_ref.png",
+      "audio": "audio/audio_FSD_sample_000010_label39_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000264_label37",
+    "dataset": "FSD",
+    "category": "Label37",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000264_label37_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000264_label37_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000264_label37_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000264_label37_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000264_label37_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000264_label37_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000264_label37_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000264_label37_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000264_label37_ref.png",
+      "audio": "audio/audio_FSD_sample_000264_label37_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000004_label37",
+    "dataset": "FSD",
+    "category": "Label37",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000004_label37_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000004_label37_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000004_label37_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000004_label37_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000004_label37_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000004_label37_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000004_label37_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000004_label37_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000004_label37_ref.png",
+      "audio": "audio/audio_FSD_sample_000004_label37_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000116_label15",
+    "dataset": "FSD",
+    "category": "Label15",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000116_label15_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000116_label15_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000116_label15_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000116_label15_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000116_label15_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000116_label15_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000116_label15_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000116_label15_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000116_label15_ref.png",
+      "audio": "audio/audio_FSD_sample_000116_label15_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000343_label23",
+    "dataset": "FSD",
+    "category": "Label23",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000343_label23_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000343_label23_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000343_label23_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000343_label23_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000343_label23_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000343_label23_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000343_label23_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000343_label23_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000343_label23_ref.png",
+      "audio": "audio/audio_FSD_sample_000343_label23_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000208_label40",
+    "dataset": "FSD",
+    "category": "Label40",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000208_label40_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000208_label40_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000208_label40_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000208_label40_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000208_label40_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000208_label40_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000208_label40_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000208_label40_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000208_label40_ref.png",
+      "audio": "audio/audio_FSD_sample_000208_label40_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000288_label25",
+    "dataset": "FSD",
+    "category": "Label25",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000288_label25_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000288_label25_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000288_label25_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000288_label25_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000288_label25_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000288_label25_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000288_label25_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000288_label25_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000288_label25_ref.png",
+      "audio": "audio/audio_FSD_sample_000288_label25_ref.wav"
+    }
+  },
+  {
+    "id": "sample_000044_label14",
+    "dataset": "FSD",
+    "category": "Label14",
+    "models": {
+      "DP-DiT": {
+        "plot": "plots/plot_FSD_sample_000044_label14_DP-DiT.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_DP-DiT.wav"
+      },
+      "DP-U-Net": {
+        "plot": "plots/plot_FSD_sample_000044_label14_DP-U-Net.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_DP-U-Net.wav"
+      },
+      "DP-U-Net Small": {
+        "plot": "plots/plot_FSD_sample_000044_label14_DP-U-Net_Small.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_DP-U-Net_Small.wav"
+      },
+      "Atten-DiT": {
+        "plot": "plots/plot_FSD_sample_000044_label14_Atten-DiT.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_Atten-DiT.wav"
+      },
+      "Mamba-Foley": {
+        "plot": "plots/plot_FSD_sample_000044_label14_Mamba-Foley.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_Mamba-Foley.wav"
+      },
+      "T-Foley": {
+        "plot": "plots/plot_FSD_sample_000044_label14_T-Foley.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_T-Foley.wav"
+      },
+      "DiffWave": {
+        "plot": "plots/plot_FSD_sample_000044_label14_DiffWave.png",
+        "audio": "audio/audio_FSD_sample_000044_label14_DiffWave.wav"
+      }
+    },
+    "ref": {
+      "plot": "plots/plot_FSD_sample_000044_label14_ref.png",
+      "audio": "audio/audio_FSD_sample_000044_label14_ref.wav"
+    }
+  }
+]
